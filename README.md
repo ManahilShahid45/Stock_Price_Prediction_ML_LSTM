@@ -71,11 +71,11 @@ The dataset contains historical stock data with the following columns:
 
 2. Navigate into the project folder:
    ```bash
-      cd Stock_Price_Prediction_ML_LSTM
+   cd Stock_Price_Prediction_ML_LSTM
 
 3. Install dependencies:
    ```bash
-      pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
+   pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
 
 4. Run the Jupyter Notebook:
    ```bash
